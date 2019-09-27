@@ -1,7 +1,16 @@
  [
     {
 	  "MachineName":MachineName,
-      	  
+      	  "spinner1":spinner1,
+	  "MNData":MNData,
+	  "MachineSpeed":MachineSpeed,
+	  "spinner2":spinner2,
+	  "MSData":MSData,
+	  "MachineHeat":MachineHeat,
+	  "spinner3":spinner3,
+	  "MHData":MHData,
+	  "MachineRunning":MachineRunning,
+	  "spinner4":spinner4
     }
   ]
   
